@@ -1,0 +1,13 @@
+@import "./utilities/base";//Estilos Base
+@import "./utilities/colors"; //Estilos Base
+
+/* Static Components */
+@import "./components/ItemListContainer.scss"; //Estilos MAin
+@import "./components/Header"; //Estilos Header
+@import "./components/NavBar"; //Estilos NavBar
+@import "./components/Footer"; //Estilos Footer
+
+/* Pages */
+@import "./pages/Productos"; //Estilos Productos
+@import "./pages/DetalleProducto"; //Estilos Detalle Productos
+

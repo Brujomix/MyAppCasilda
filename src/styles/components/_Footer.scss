@@ -1,0 +1,29 @@
+.containerFooter{
+
+    font-family: 'Courier New', Courier, monospace;
+
+    background-color: $dark;
+    color: $white;
+
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    justify-content: center;
+    gap: 20px;
+    padding: 20px;
+
+    height: 300px;
+    .listaInfo{
+        display: flex;
+        gap: 50px;
+        justify-content: space-around;
+        ul{
+            li{
+                margin-top: 20px;
+            }
+        }
+    }
+    .copyright{
+        text-align: center;
+    }
+}

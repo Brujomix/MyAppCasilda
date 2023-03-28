@@ -1,0 +1,7 @@
+export {Home} from "../pages/Home"
+export {Checkout} from "../pages/Checkout"
+export {Productos} from "../pages/Productos"
+export {Comercios} from "../pages/Comercios"
+export {Servicios} from "../pages/Servicios"
+export {Ofertas} from "../pages/Ofertas"
+export {DetalleProducto} from "../pages/DetalleProducto"
